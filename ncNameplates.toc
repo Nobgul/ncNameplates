@@ -1,0 +1,7 @@
+## Interface: 30200
+## Title: ncNameplates
+## Author: Nightcracker, Nobgul
+## Version: 1.1
+## Notes: Addon for changing the look of the nameplates.
+
+ncNameplates.lua
