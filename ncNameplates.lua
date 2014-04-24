@@ -5,7 +5,7 @@ local font = [[Fonts\FRIZQT__.ttf]]
 local statusbar = [[Interface\AddOns\ncNameplates\flat]]
 local solid = [[Interface\AddOns\ncNameplates\solid]]
 local flags = ""
-
+-- edited to show github useage
 -- DON'T EDIT BELOW THIS LINE
 local numkids, lastupdate, select = 0, 0, select
 local f = CreateFrame("Frame")
